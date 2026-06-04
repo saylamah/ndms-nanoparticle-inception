@@ -83,6 +83,9 @@ This repository currently contains:
 * `scripts/ndms_zero_dimensional_model.py`
   A simple executable Python model showing how dissociation, loss, and stabilization affect the bounded stabilization probability and NDMS inception source.
 
+* `notebooks/01_persistence_stabilization_demo.ipynb`
+  A Jupyter notebook version of the zero-dimensional NDMS persistence–stabilization demonstration, including explanatory equations, illustrative cases, and plots of stabilization probability and NDMS source sensitivity.
+
 ## First Executable Demonstration
 
 The current Python script demonstrates the reduced zero-dimensional NDMS closure:
@@ -100,6 +103,20 @@ python scripts/ndms_zero_dimensional_model.py
 ```
 
 This first demonstration shows that transient clustering alone is not sufficient for nanoparticle inception. Persistent particle formation depends on whether stabilization competes successfully with dissociation and other non-stabilizing losses.  
+
+The same reduced model is also available as an interactive Jupyter notebook:
+
+```text
+notebooks/01_persistence_stabilization_demo.ipynb
+```
+
+The notebook includes:
+
+* the core persistence–stabilization equations,
+* three illustrative regimes,
+* calculation of `P_stab` and `S_NDMS`,
+* a plot of stabilization probability versus `Da_PS`,
+* a sensitivity plot showing how the NDMS source changes with the stabilization coefficient.
 
 ## Planned Demonstrations
 
