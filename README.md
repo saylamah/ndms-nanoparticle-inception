@@ -84,3 +84,43 @@ Email: [saylamah@gmail.com](mailto:saylamah@gmail.com)
 ## Keywords
 
 nanoparticle inception, soot, combustion, flame aerosol synthesis, transient nano-dense molecular state, NDMS, persistence-stabilization, PAH clustering, chemical kinetics, population balance, nucleation closure, thermochemical processes
+
+## Companion Papers
+
+This repository currently includes two companion papers on the transient nano-dense molecular state (NDMS) concept for nanoparticle inception in combustion systems.
+
+### 1. Nanoparticle Inception via a Transient Nano-Dense Molecular State: Bridging Clustering and Chemical Stabilization
+
+**Zenodo, March 2026**
+**DOI:** 10.5281/zenodo.19730735
+
+This paper introduces the NDMS hypothesis as a physically grounded and testable interpretation of nanoparticle inception. It proposes that particle formation can proceed through a transient, non-equilibrium, locally dense molecular state that bridges physical clustering and chemical stabilization.
+
+Repository file:
+[Nano-CondensedPhaseTransition_up_45.pdf](./Nano-CondensedPhaseTransition_up_45.pdf)
+
+### 2. Transient Nano-Dense Molecular States as a Persistence–Stabilization Closure for Combustion Nanoparticle Inception
+
+**Zenodo, May 2026**
+**DOI:** 10.5281/zenodo.20258147
+
+This paper develops the NDMS concept into a practical modeling framework. It separates precursor association, cluster dissociation, non-stabilizing loss, and stabilization into distinct model components and proposes a persistence–stabilization closure for soot and selected inorganic nanoparticle-inception systems.
+
+Repository file:
+[Modeling_Framework_33.pdf](./Modeling_Framework_33.pdf)
+
+## Scientific Development Path
+
+The repository will be developed step by step. Planned additions include:
+
+* a concise scientific summary of the NDMS hypothesis,
+* a mathematical summary of the persistence–stabilization closure,
+* a zero-dimensional demonstration model,
+* Python scripts and Jupyter notebooks,
+* illustrative parameter-sensitivity examples,
+* figures and educational material for scientific communication.
+
+## Important Note
+
+The materials in this repository are intended for open scientific communication, reproducibility, and conceptual model development. They do not contain confidential industrial data or proprietary project information.
+
