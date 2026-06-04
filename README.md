@@ -101,6 +101,7 @@ To run it:
 ```bash
 python scripts/ndms_zero_dimensional_model.py
 ```
+For installation and usage instructions, see [`docs/how-to-use.md`](docs/how-to-use.md).
 
 This first demonstration shows that transient clustering alone is not sufficient for nanoparticle inception. Persistent particle formation depends on whether stabilization competes successfully with dissociation and other non-stabilizing losses.  
 
