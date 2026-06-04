@@ -6,6 +6,12 @@ This repository provides companion materials for scientific work on nanoparticle
 
 The purpose of this repository is to support transparent scientific communication, reproducible model demonstration, and further development of physically interpretable inception closures for soot and selected inorganic flame-aerosol systems.
 
+## Conceptual Overview
+
+![NDMS modeling closure for the molecular-to-particle inception gap](figures/ndms_modeling_closure.png)
+
+The NDMS framework introduces a structured modeling closure between gas-phase chemistry and persistent incipient particles. Instead of treating nanoparticle inception as a direct empirical jump from molecular precursors to particles, the framework separates the process into precursor association, transient reversible clustering, dissociation/loss, and chemical or structural stabilization.
+
 ## Scientific Context
 
 Nanoparticle inception remains one of the least constrained steps in predictive combustion particle modeling. Detailed gas-phase chemistry can describe fuel decomposition, aromatic growth, PAH chemistry, radical pathways, oxidation, surface growth, and coagulation, but the transition from molecular precursors to the first persistent particles often still requires empirical or semi-empirical closure.
