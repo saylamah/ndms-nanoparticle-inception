@@ -37,6 +37,12 @@ For selected inorganic flame-aerosol systems, the corresponding processes may in
 
 The specific chemistry is system-dependent, but the modeling structure is general: reversible precursor association competes with stabilization.
 
+## Conceptual Pathways for Carbonaceous and Inorganic Nanoparticle Formation
+
+![NDMS interpretation for carbonaceous and inorganic nanoparticle formation](../figures/ndms_soot_inorganic_pathways.png)
+
+**Figure:** Conceptual comparison of carbonaceous nanoparticle formation, represented by soot, and inorganic nanoparticle formation, represented by TiO₂ flame-aerosol synthesis. In both cases, the NDMS region is interpreted as a transient, non-equilibrium, locally dense precursor ensemble. The specific chemistry is system-dependent, but the modeling structure emphasizes reversible association, finite residence time, and stabilization-controlled transition to persistent particles.
+
 ## Persistence–Stabilization Closure
 
 The persistence–stabilization closure separates:
