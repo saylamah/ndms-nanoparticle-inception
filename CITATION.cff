@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this repository or its companion materials, please cite the related works below."
+title: "NDMS Nanoparticle Inception: Companion Materials"
+authors:
+
+* family-names: "Saylam"
+  given-names: "Ahmad"
+  email: "[saylamah@gmail.com](mailto:saylamah@gmail.com)"
+  repository-code: "https://github.com/saylamah/ndms-nanoparticle-inception"
+  abstract: "Companion materials for the transient nano-dense molecular state (NDMS) hypothesis and persistence-stabilization closure for combustion nanoparticle inception."
+  keywords:
+* nanoparticle inception
+* combustion
+* soot
+* transient nano-dense molecular state
+* NDMS
+* persistence-stabilization
+* PAH clustering
+* chemical kinetics
+* population balance
+* nucleation closure
+  license: "MIT"
+  references:
+* type: article
+  title: "Nanoparticle Inception via a Transient Nano-Dense Molecular State: Bridging Clustering and Chemical Stabilization"
+  authors:
+
+  * family-names: "Saylam"
+    given-names: "Ahmad"
+    doi: "10.5281/zenodo.19730735"
+    date-released: "2026-03"
+* type: article
+  title: "Transient Nano-Dense Molecular States as a Persistence-Stabilization Closure for Combustion Nanoparticle Inception"
+  authors:
+
+  * family-names: "Saylam"
+    given-names: "Ahmad"
+    doi: "10.5281/zenodo.20258147"
+    date-released: "2026-05"
