@@ -58,6 +58,43 @@ This repository is connected to the following public scientific works:
 * `figures/`
   Public or recreated figures used for explanation and communication.
 
+## Repository Map
+
+This repository currently contains:
+
+* `papers/`
+  Companion papers introducing and developing the NDMS hypothesis and persistence–stabilization closure.
+
+* `docs/scientific-summary.md`
+  A concise scientific summary of the transient nano-dense molecular state concept.
+
+* `docs/model-equations.md`
+  A reduced mathematical summary of the NDMS persistence–stabilization closure.
+
+* `docs/how-to-use.md`
+  Instructions for running the current zero-dimensional model demonstration.
+
+* `scripts/ndms_zero_dimensional_model.py`
+  A simple executable Python model showing how dissociation, loss, and stabilization affect the bounded stabilization probability and NDMS inception source.
+
+## First Executable Demonstration
+
+The current Python script demonstrates the reduced zero-dimensional NDMS closure:
+
+```text
+P_stab = k_stab / (k_off + k_loss + k_stab)
+
+S_NDMS = k_stab * k_on * C_assoc^m / (k_off + k_loss + k_stab)
+```
+
+To run it:
+
+```bash
+python scripts/ndms_zero_dimensional_model.py
+```
+
+This first demonstration shows that transient clustering alone is not sufficient for nanoparticle inception. Persistent particle formation depends on whether stabilization competes successfully with dissociation and other non-stabilizing losses.  
+
 ## Planned Demonstrations
 
 The initial computational demonstrations will focus on:
