@@ -2,7 +2,7 @@
 
 **Transient Nano-Dense Molecular State (NDMS) Hypothesis and Persistence–Stabilization Closure for Combustion Nanoparticle Inception**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20840789.svg)](https://doi.org/10.5281/zenodo.20840789)
+[![DOI](https://zenodo.org/badge/1259722899.svg)](https://doi.org/10.5281/zenodo.20840788)
 
 This repository provides companion materials for scientific work on nanoparticle inception in combustion systems, with emphasis on the transient nano-dense molecular state (NDMS) hypothesis and its formulation as a persistence–stabilization closure.
 
