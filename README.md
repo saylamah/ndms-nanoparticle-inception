@@ -148,6 +148,16 @@ Email: [saylamah@gmail.com](mailto:saylamah@gmail.com)
 
 nanoparticle inception, soot, combustion, flame aerosol synthesis, transient nano-dense molecular state, NDMS, persistence-stabilization, PAH clustering, chemical kinetics, population balance, nucleation closure, thermochemical processes
 
+## Citation
+
+For the evolving repository, please cite the Zenodo concept DOI:
+
+https://doi.org/10.5281/zenodo.20840788
+
+For the exact archived version corresponding to the latest visible Zenodo record, use:
+
+https://doi.org/10.5281/zenodo.20840831
+
 ## Companion Papers
 
 This repository currently includes two companion papers on the transient nano-dense molecular state (NDMS) concept for nanoparticle inception in combustion systems.
